@@ -1,4 +1,4 @@
-f = open('../www_access_20140823.log')
+f = open('../../www_access_20140823.log')
 res = {}
 for l in f:
 	arr = l.split(' ')
